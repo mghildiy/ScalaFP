@@ -1,4 +1,4 @@
-package com.cypherlabs.fp
+package com.cypherlabs.fp.chapter2
 
 object nthFibonacciDemo {
 
