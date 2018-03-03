@@ -32,6 +32,8 @@ object Trivials {
     }
     //funtional style for loop
     alphabets.foreach(str => println(str))//input is a function
+
+    //page 81:Programming in Scala 2nd
   }
 
 }
